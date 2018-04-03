@@ -1,4 +1,4 @@
-# My site is at: elastic-galileo-c25025.netlify.com
+# My site is at: [elastic-galileo-c25025.netlify.com](elastic-galileo-c25025.netlify.com)
 
 # Academic Kickstart
 
